@@ -12,6 +12,7 @@ dependencies:
     sdk: flutter
   flutter_bloc: ^8.0.1
   get_it: ^7.2.0
+  intrinsic_dimension: ^0.3.0
 
 dev_dependencies:
   bloc_test: ^9.0.3
